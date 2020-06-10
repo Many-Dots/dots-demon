@@ -6,4 +6,4 @@ client.on('ready', () => {
 	console.log("Dots` Demon");
 });
 
-client.login(config.token);
+client.login(process.env.BOT_TOKEN);
