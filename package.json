@@ -1,7 +1,7 @@
 {
-	"name": "Example",
-	"description": "Example",
-	"version": "0.0.0",
+	"name": "Dots' Demon",
+	"description": "2nd Bot.",
+	"version": "0.0.1",
 	"main": "bot.js",
 	"scripts": {
 		"start": "node bot.js"
